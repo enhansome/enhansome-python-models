@@ -1,0 +1,978 @@
+{
+  "items": [
+    {
+      "description": "Libraries implementing some kind of model, letting you to serialize/deserialize python object to some data structures.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pydantic",
+          "description": "Data validation using Python 3.6 type hinting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:52:15Z",
+            "owner": "pydantic",
+            "repo": "pydantic",
+            "stars": 28531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marshmallow",
+          "description": "A lightweight library for converting complex objects to and from simple Python datatypes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:31:56Z",
+            "owner": "marshmallow-code",
+            "repo": "marshmallow",
+            "stars": 7241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "attrs",
+          "description": "Python Classes Without Boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T05:38:42Z",
+            "owner": "python-attrs",
+            "repo": "attrs",
+            "stars": 5827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "schematics",
+          "description": "Python Data Structures for Humans™.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-12T06:21:13Z",
+            "owner": "schematics",
+            "repo": "schematics",
+            "stars": 2589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":ghost: jsonpickle",
+          "description": "Python library for serializing any arbitrary object graph into JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T14:32:43Z",
+            "owner": "jsonpickle",
+            "repo": "jsonpickle",
+            "stars": 1318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "param",
+          "description": "Make your Python code clearer and more reliable by declaring Parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:10:34Z",
+            "owner": "holoviz",
+            "repo": "param",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "colander",
+          "description": "A serialization/deserialization/validation library for strings, mappings and lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:19:54Z",
+            "owner": "Pylons",
+            "repo": "colander",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kim",
+          "description": "A JSON Serialization and Marshaling framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-16T16:13:53Z",
+            "owner": "mikeywaites",
+            "repo": "kim",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonobject",
+          "description": "A simple json-object mapping for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-23T15:46:12Z",
+            "owner": "dimagi",
+            "repo": "jsonobject",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "booby",
+          "description": "data modeling and validation Python library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-21T01:11:40Z",
+            "owner": "jaimegildesagredo",
+            "repo": "booby",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micromodels",
+          "description": "Declarative dictionary-based model classes for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-08-02T18:26:07Z",
+            "owner": "j4mie",
+            "repo": "micromodels",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "object-mapper",
+          "description": "ObjectMapper is a class for automatic object mapping in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-10T21:34:47Z",
+            "owner": "marazt",
+            "repo": "object-mapper",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyschema",
+          "description": "Python library for class-based schema definition, object serialization and data validation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2015-10-19T15:27:23Z",
+            "owner": "spotify",
+            "repo": "pyschema",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yorm",
+          "description": "Automatic object-YAML mapping for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-03-23T23:19:45Z",
+            "owner": "jacebrowning",
+            "repo": "yorm",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lupin",
+          "description": "Python document object mapper (load python object from JSON and vice-versa).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-12T18:09:27Z",
+            "owner": "holinnn",
+            "repo": "lupin",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guts",
+          "description": "Lightweight declarative YAML and XML data binding for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-23T15:22:12Z",
+            "owner": "emolch",
+            "repo": "guts",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "normalize",
+          "description": "A toolkit for wrapping network data in Python objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T13:21:40Z",
+            "owner": "hearsaycorp",
+            "repo": "normalize",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-models",
+          "description": "Simple models - keep your API messages in shape with validation and handy descriptors based object interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-17T19:19:34Z",
+            "owner": "prawn-cake",
+            "repo": "simple-models",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monk",
+          "description": "An unobtrusive data modeling, manipulation and validation library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T16:43:00Z",
+            "owner": "neithere",
+            "repo": "monk",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dirty-models",
+          "description": "Dirty model for python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-09T10:20:36Z",
+            "owner": "alfred82santa",
+            "repo": "dirty-models",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resource-api",
+          "description": "A framework that allows developers decoratively define resources and relationships between them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-07-20T12:41:58Z",
+            "owner": "WithSecureOpenSource",
+            "repo": "resource-api",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazycontract",
+          "description": "Python library to define declarative contracts for serialization and deserialization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-28T18:54:28Z",
+            "owner": "neilisaac",
+            "repo": "lazycontract",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":ghost: metaparams",
+          "description": "Python meta framework for Parameters in classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-09T13:15:35Z",
+            "owner": "mementum",
+            "repo": "metaparams",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scheme",
+          "description": "A declarative schema framework for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-20T16:03:29Z",
+            "owner": "jordanm",
+            "repo": "scheme",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "datastore.objects",
+          "description": "simple object mapper on top of datastore (not relational).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-08-17T02:29:57Z",
+            "owner": "datastore",
+            "repo": "datastore.objects",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnarl",
+          "description": "Lightweight module to define serializable, schema-validated classes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-26T08:28:30Z",
+            "owner": "aperezdc",
+            "repo": "gnarl",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "schema",
+          "description": "A generic declarative schema system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-18T01:42:48Z",
+            "owner": "marrow",
+            "repo": "schema",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonmapper",
+          "description": "Python JSON<->Object mapper.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2014-06-17T04:23:08Z",
+            "owner": "mgood",
+            "repo": "jsonmapper",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonobjects",
+          "description": "jsonobjects allows you to declaratively specify how to extract and convert elements from a JSON document.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-11-13T22:36:03Z",
+            "owner": "caxap",
+            "repo": "jsonobjects",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-json",
+          "description": "Python library for easily JSON encoding/decoding complex class-based Python models, using an arbitrarily complex (but easy to write!) mapping schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-23T12:34:08Z",
+            "owner": "wtsi-hgi",
+            "repo": "python-hgijson",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonmodels",
+          "description": "jsonmodels is library to make it easier for you to deal with structures that are converted to, or read from JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-06T17:05:35Z",
+            "owner": "beregond",
+            "repo": "jsonmodels",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "model-api",
+          "description": "For modeling remote APIs in an ORM fashion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-08T18:31:19Z",
+            "owner": "caxiam",
+            "repo": "model-api",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "causalmodels",
+          "description": "causal modeling in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-07-28T02:21:47Z",
+            "owner": "roronya",
+            "repo": "causalmodels",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple_model",
+          "description": "a very simple model framework for python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-24T11:24:22Z",
+            "owner": "afriemann",
+            "repo": "simple_model",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "composite",
+          "description": "Declarative XML files parse, unparse with help of lxml library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-01-07T22:13:24Z",
+            "owner": "tarvitz",
+            "repo": "composite",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":ghost: prettyrecord",
+          "description": "Structures like SQLAlchemy's declarative_base or Django's models in your project!",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "python-docar",
+          "description": "A library for document oriented architectures.",
+          "children": []
+        }
+      ],
+      "title": "Model, Schema"
+    },
+    {
+      "description": "Libraries, implementing ODM/ORM/Active Record patterns, letting you to work with external objects (REST, DB) like normal python instances.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django",
+          "description": "The Web framework for perfectionists with deadlines (includes ORM layer).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:43:53Z",
+            "owner": "django",
+            "repo": "django",
+            "stars": 88414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peewee",
+          "description": "a small, expressive orm -- supports postgresql, mysql and sqlite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:28:05Z",
+            "owner": "coleifer",
+            "repo": "peewee",
+            "stars": 11984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mongoengine",
+          "description": "A Python Object-Document-Mapper for working with MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T22:16:49Z",
+            "owner": "MongoEngine",
+            "repo": "mongoengine",
+            "stars": 4348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pony",
+          "description": "Pony Object Relational Mapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T12:37:32Z",
+            "owner": "ponyorm",
+            "repo": "pony",
+            "stars": 3820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PynamoDB",
+          "description": "A pythonic interface to Amazon's DynamoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-29T11:20:50Z",
+            "owner": "pynamodb",
+            "repo": "PynamoDB",
+            "stars": 2649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orator",
+          "description": "The Orator ORM provides a simple yet beautiful ActiveRecord implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-11-11T09:02:02Z",
+            "owner": "sdispater",
+            "repo": "orator",
+            "stars": 1414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "walrus",
+          "description": "Lightweight Python utilities for working with Redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T13:28:50Z",
+            "owner": "coleifer",
+            "repo": "walrus",
+            "stars": 1205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redisco",
+          "description": "A Python Library for Simple Models and Containers Persisted in Redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-17T05:09:02Z",
+            "owner": "kiddouk",
+            "repo": "redisco",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pymodm",
+          "description": "A Pythonic, object-oriented interface for working with MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-10T12:46:48Z",
+            "owner": "mongodb",
+            "repo": "pymodm",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":ghost: butterdb",
+          "description": "butterdb is a Python object mapper for Google Drive Spreadsheets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-06-12T06:22:17Z",
+            "owner": "terrible-ideas",
+            "repo": "butterdb",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remodel",
+          "description": "Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-13T14:39:43Z",
+            "owner": "linkyndy",
+            "repo": "remodel",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "finch",
+          "description": "Asynchronous RESTful API consumer for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-05-03T17:47:23Z",
+            "owner": "jaimegildesagredo",
+            "repo": "finch",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flywheel",
+          "description": "Object mapper for Amazon's DynamoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-12-26T03:38:21Z",
+            "owner": "stevearc",
+            "repo": "flywheel",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kev",
+          "description": "Python ORM for key-value stores. Currently supported backends are Redis, S3, and a S3/Redis hybrid backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-20T23:52:32Z",
+            "owner": "qwigo",
+            "repo": "kev",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyresto",
+          "description": "A generic ORM framework for RESTful APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-07-09T08:24:45Z",
+            "owner": "BYK",
+            "repo": "pyresto",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "restorm",
+          "description": "RestORM allows you to interact with resources as if they were objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-02-09T11:46:37Z",
+            "owner": "joeribekker",
+            "repo": "restorm",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "py-rest-orm",
+          "description": "Generic Python REST ORM. Inspired by Django. Powered by Requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-20T17:28:55Z",
+            "owner": "miketheredherring",
+            "repo": "py-rest-orm",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modular-odm",
+          "description": "A database-agnostic Object-Document Mapper for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-03T22:04:59Z",
+            "owner": "cos-archives",
+            "repo": "modular-odm",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wukong",
+          "description": "An ORM Client library for SolrCloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-15T21:50:54Z",
+            "owner": "SurveyMonkey",
+            "repo": "wukong",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-rest-model",
+          "description": "A standard way to consume a RESTful service, inspired by Django models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-21T19:00:55Z",
+            "owner": "mdaif",
+            "repo": "python-rest-model",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "acid",
+          "description": "SQLite for NoSQL.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "yadm",
+          "description": "Yet Another Document Mapper (ODM) for MongoDB.",
+          "children": []
+        }
+      ],
+      "title": "ODM, ORM, Active Record"
+    },
+    {
+      "description": "Libraries for validating custom data structures.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jsonschema",
+          "description": "jsonschema is an implementation of JSON Schema for Python (supporting 2.7+ including Python 3).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:39:11Z",
+            "owner": "python-jsonschema",
+            "repo": "jsonschema",
+            "stars": 4968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerberus",
+          "description": "Lightweight, extensible data validation library for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T04:53:50Z",
+            "owner": "pyeve",
+            "repo": "cerberus",
+            "stars": 3287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "schema",
+          "description": "schema is a library for validating Python data structures, such as those obtained from config-files, forms, external services or command-line parsing, converted from JSON/YAML (or something else) to Python data-types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-20T09:39:05Z",
+            "owner": "keleshev",
+            "repo": "schema",
+            "stars": 2945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "voluptuous",
+          "description": "Voluptuous, despite the name, is a Python data validation library. It is primarily intended for validating data coming into Python as JSON, YAML, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T15:03:12Z",
+            "owner": "alecthomas",
+            "repo": "voluptuous",
+            "stars": 1850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strictyaml",
+          "description": "Type-safe YAML parser and validator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-23T08:40:43Z",
+            "owner": "crdoconnor",
+            "repo": "strictyaml",
+            "stars": 1622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyschemes",
+          "description": "PySchemes is a library for validating data structures in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-12T12:21:05Z",
+            "owner": "spy16",
+            "repo": "pyschemes",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "valideer",
+          "description": "Lightweight data validation and adaptation Python library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T07:42:52Z",
+            "owner": "podio",
+            "repo": "valideer",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "validr",
+          "description": "A simple, fast, extensible python library for data validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-09T17:38:26Z",
+            "owner": "guyskk",
+            "repo": "validr",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "required",
+          "description": "Required is a simple library which allows you to validate dependencies across multiple fields.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-13T18:19:10Z",
+            "owner": "shezadkhan137",
+            "repo": "required",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyvaru",
+          "description": "Rule based data validation library for python 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-04T07:16:21Z",
+            "owner": "daveoncode",
+            "repo": "pyvaru",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "destructure",
+          "description": "Easy declarative schema validation with optional name-binding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-24T13:53:22Z",
+            "owner": "selik",
+            "repo": "destructure",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Data validation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:31.535Z",
+    "original_repository": "grundic/awesome-python-models",
+    "original_repository_sha": "094e1b836021767c53823b4894e6b3839826a120",
+    "enhanced_repository": "enhansome/enhansome-python-models",
+    "enhanced_repository_description": null,
+    "title": "Awesome Python Models with stars"
+  }
+}
