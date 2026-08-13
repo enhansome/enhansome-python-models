@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:52:15Z",
+            "last_commit": "2026-08-13T14:57:09Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28531
+            "stars": 28533
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2023-07-12T06:21:13Z",
             "owner": "schematics",
             "repo": "schematics",
-            "stars": 2589
+            "stars": 2588
           }
         },
         {
@@ -519,10 +519,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T09:43:53Z",
+            "last_commit": "2026-08-13T06:03:19Z",
             "owner": "django",
             "repo": "django",
-            "stars": 88414
+            "stars": 88423
           }
         },
         {
@@ -533,7 +533,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:28:05Z",
+            "last_commit": "2026-08-13T13:41:28Z",
             "owner": "coleifer",
             "repo": "peewee",
             "stars": 11984
@@ -890,7 +890,7 @@
             "last_commit": "2022-09-12T12:21:05Z",
             "owner": "spy16",
             "repo": "pyschemes",
-            "stars": 361
+            "stars": 360
           }
         },
         {
@@ -968,7 +968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:25:31.535Z",
+    "last_updated": "2026-08-13T23:24:05.701Z",
     "original_repository": "grundic/awesome-python-models",
     "original_repository_sha": "094e1b836021767c53823b4894e6b3839826a120",
     "enhanced_repository": "enhansome/enhansome-python-models",
