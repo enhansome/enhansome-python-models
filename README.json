@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:57:09Z",
+            "last_commit": "2026-08-14T07:04:45Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28533
+            "stars": 28541
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T14:31:56Z",
+            "last_commit": "2026-08-14T16:18:58Z",
             "owner": "marshmallow-code",
             "repo": "marshmallow",
             "stars": 7241
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-07T05:38:42Z",
             "owner": "python-attrs",
             "repo": "attrs",
-            "stars": 5827
+            "stars": 5828
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2023-07-12T06:21:13Z",
             "owner": "schematics",
             "repo": "schematics",
-            "stars": 2588
+            "stars": 2589
           }
         },
         {
@@ -519,10 +519,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T06:03:19Z",
+            "last_commit": "2026-08-14T21:35:51Z",
             "owner": "django",
             "repo": "django",
-            "stars": 88423
+            "stars": 88428
           }
         },
         {
@@ -533,7 +533,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T13:41:28Z",
+            "last_commit": "2026-08-14T13:00:45Z",
             "owner": "coleifer",
             "repo": "peewee",
             "stars": 11984
@@ -820,7 +820,7 @@
             "last_commit": "2026-08-10T18:39:11Z",
             "owner": "python-jsonschema",
             "repo": "jsonschema",
-            "stars": 4968
+            "stars": 4971
           }
         },
         {
@@ -848,7 +848,7 @@
             "last_commit": "2026-06-20T09:39:05Z",
             "owner": "keleshev",
             "repo": "schema",
-            "stars": 2945
+            "stars": 2946
           }
         },
         {
@@ -968,7 +968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:24:05.701Z",
+    "last_updated": "2026-08-14T22:58:54.391Z",
     "original_repository": "grundic/awesome-python-models",
     "original_repository_sha": "094e1b836021767c53823b4894e6b3839826a120",
     "enhanced_repository": "enhansome/enhansome-python-models",
