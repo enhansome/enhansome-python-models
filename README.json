@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T07:04:45Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28541
+            "stars": 28545
           }
         },
         {
@@ -519,10 +519,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T21:35:51Z",
+            "last_commit": "2026-08-15T15:55:33Z",
             "owner": "django",
             "repo": "django",
-            "stars": 88428
+            "stars": 88429
           }
         },
         {
@@ -817,7 +817,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T18:39:11Z",
+            "last_commit": "2026-08-15T15:11:52Z",
             "owner": "python-jsonschema",
             "repo": "jsonschema",
             "stars": 4971
@@ -834,7 +834,7 @@
             "last_commit": "2026-07-01T04:53:50Z",
             "owner": "pyeve",
             "repo": "cerberus",
-            "stars": 3287
+            "stars": 3288
           }
         },
         {
@@ -968,7 +968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:58:54.391Z",
+    "last_updated": "2026-08-15T22:58:19.624Z",
     "original_repository": "grundic/awesome-python-models",
     "original_repository_sha": "094e1b836021767c53823b4894e6b3839826a120",
     "enhanced_repository": "enhansome/enhansome-python-models",
