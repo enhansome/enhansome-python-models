@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:04:45Z",
+            "last_commit": "2026-08-16T21:05:17Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28545
+            "stars": 28556
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T16:18:58Z",
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7241
+            "stars": 7242
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-07T05:38:42Z",
             "owner": "python-attrs",
             "repo": "attrs",
-            "stars": 5828
+            "stars": 5829
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-15T15:55:33Z",
             "owner": "django",
             "repo": "django",
-            "stars": 88429
+            "stars": 88430
           }
         },
         {
@@ -547,7 +547,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-23T22:16:49Z",
+            "last_commit": "2026-08-16T12:58:30Z",
             "owner": "MongoEngine",
             "repo": "mongoengine",
             "stars": 4348
@@ -820,7 +820,7 @@
             "last_commit": "2026-08-15T15:11:52Z",
             "owner": "python-jsonschema",
             "repo": "jsonschema",
-            "stars": 4971
+            "stars": 4972
           }
         },
         {
@@ -968,7 +968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:58:19.624Z",
+    "last_updated": "2026-08-16T22:57:35.270Z",
     "original_repository": "grundic/awesome-python-models",
     "original_repository_sha": "094e1b836021767c53823b4894e6b3839826a120",
     "enhanced_repository": "enhansome/enhansome-python-models",
