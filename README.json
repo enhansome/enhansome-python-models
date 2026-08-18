@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:28:48Z",
+            "last_commit": "2026-08-18T19:32:21Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28560
+            "stars": 28563
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:18:58Z",
+            "last_commit": "2026-08-18T12:09:59Z",
             "owner": "marshmallow-code",
             "repo": "marshmallow",
             "stars": 7242
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T05:38:42Z",
+            "last_commit": "2026-08-18T08:39:27Z",
             "owner": "python-attrs",
             "repo": "attrs",
-            "stars": 5832
+            "stars": 5831
           }
         },
         {
@@ -519,10 +519,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T17:21:54Z",
+            "last_commit": "2026-08-18T18:09:39Z",
             "owner": "django",
             "repo": "django",
-            "stars": 88420
+            "stars": 88476
           }
         },
         {
@@ -550,7 +550,7 @@
             "last_commit": "2026-08-16T12:58:30Z",
             "owner": "MongoEngine",
             "repo": "mongoengine",
-            "stars": 4348
+            "stars": 4349
           }
         },
         {
@@ -820,7 +820,7 @@
             "last_commit": "2026-08-17T19:00:30Z",
             "owner": "python-jsonschema",
             "repo": "jsonschema",
-            "stars": 4972
+            "stars": 4973
           }
         },
         {
@@ -968,7 +968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:59:34.426Z",
+    "last_updated": "2026-08-18T22:59:42.582Z",
     "original_repository": "grundic/awesome-python-models",
     "original_repository_sha": "094e1b836021767c53823b4894e6b3839826a120",
     "enhanced_repository": "enhansome/enhansome-python-models",
