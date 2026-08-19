@@ -12,10 +12,10 @@
             "archived": false,
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-19T07:52:04Z",
+            "last_commit": "2026-08-19T22:34:46Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28568
+            "stars": 28569
           }
         },
         {
@@ -543,10 +543,10 @@
             "archived": false,
             "id": 4164482,
             "language": "Python",
-            "last_commit": "2026-08-19T11:53:56Z",
+            "last_commit": "2026-08-19T18:28:47Z",
             "owner": "django",
             "repo": "django",
-            "stars": 88474
+            "stars": 88483
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-14T13:00:45Z",
             "owner": "coleifer",
             "repo": "peewee",
-            "stars": 11986
+            "stars": 11983
           }
         },
         {
@@ -573,7 +573,7 @@
             "archived": false,
             "id": 3626679,
             "language": "Python",
-            "last_commit": "2026-08-16T12:58:30Z",
+            "last_commit": "2026-08-19T20:04:13Z",
             "owner": "MongoEngine",
             "repo": "mongoengine",
             "stars": 4349
@@ -1028,7 +1028,7 @@
                 "last_commit": "2026-08-18T13:28:50Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 497668
+                "stars": 497818
               }
             },
             {
@@ -1043,7 +1043,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11422
+                "stars": 11421
               }
             }
           ]
@@ -1065,7 +1065,7 @@
                 "last_commit": "2026-08-16T13:31:43Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 314857
+                "stars": 314963
               }
             },
             {
@@ -1150,7 +1150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:20.527Z",
+    "last_updated": "2026-08-19T23:00:31.717Z",
     "original_repository": "grundic/awesome-python-models",
     "original_repository_id": 85747461,
     "original_repository_sha": "094e1b836021767c53823b4894e6b3839826a120",
