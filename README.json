@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T22:34:46Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28569
+            "stars": 28578
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-07-12T06:21:13Z",
             "owner": "schematics",
             "repo": "schematics",
-            "stars": 2588
+            "stars": 2587
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-12T17:10:34Z",
             "owner": "holoviz",
             "repo": "param",
-            "stars": 520
+            "stars": 519
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-08-19T18:28:47Z",
             "owner": "django",
             "repo": "django",
-            "stars": 88483
+            "stars": 88509
           }
         },
         {
@@ -573,10 +573,10 @@
             "archived": false,
             "id": 3626679,
             "language": "Python",
-            "last_commit": "2026-08-19T20:04:13Z",
+            "last_commit": "2026-08-20T13:48:23Z",
             "owner": "MongoEngine",
             "repo": "mongoengine",
-            "stars": 4349
+            "stars": 4348
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-08-10T12:37:32Z",
             "owner": "ponyorm",
             "repo": "pony",
-            "stars": 3820
+            "stars": 3819
           }
         },
         {
@@ -912,7 +912,7 @@
             "last_commit": "2025-05-23T08:40:43Z",
             "owner": "crdoconnor",
             "repo": "strictyaml",
-            "stars": 1623
+            "stars": 1622
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2022-09-12T12:21:05Z",
             "owner": "spy16",
             "repo": "pyschemes",
-            "stars": 360
+            "stars": 359
           }
         },
         {
@@ -1028,7 +1028,7 @@
                 "last_commit": "2026-08-18T13:28:50Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 497818
+                "stars": 498227
               }
             },
             {
@@ -1043,7 +1043,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11421
+                "stars": 11426
               }
             }
           ]
@@ -1065,7 +1065,7 @@
                 "last_commit": "2026-08-16T13:31:43Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 314963
+                "stars": 315145
               }
             },
             {
@@ -1110,7 +1110,7 @@
                 "last_commit": "2026-06-08T08:36:57Z",
                 "owner": "dahlia",
                 "repo": "awesome-sqlalchemy",
-                "stars": 3051
+                "stars": 3054
               }
             },
             {
@@ -1150,7 +1150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:00:31.717Z",
+    "last_updated": "2026-08-20T23:02:12.016Z",
     "original_repository": "grundic/awesome-python-models",
     "original_repository_id": 85747461,
     "original_repository_sha": "094e1b836021767c53823b4894e6b3839826a120",
