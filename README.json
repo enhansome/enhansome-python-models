@@ -12,10 +12,10 @@
             "archived": false,
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-24T14:20:17Z",
+            "last_commit": "2026-08-24T16:33:47Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28605
+            "stars": 28606
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 4191817,
             "language": "Python",
-            "last_commit": "2026-08-24T14:33:51Z",
+            "last_commit": "2026-08-24T14:59:44Z",
             "owner": "holoviz",
             "repo": "param",
             "stars": 519
@@ -546,7 +546,7 @@
             "last_commit": "2026-08-23T19:39:31Z",
             "owner": "django",
             "repo": "django",
-            "stars": 88762
+            "stars": 88922
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-23T19:21:34Z",
             "owner": "coleifer",
             "repo": "peewee",
-            "stars": 11986
+            "stars": 11985
           }
         },
         {
@@ -849,7 +849,7 @@
             "archived": false,
             "id": 3072629,
             "language": "Python",
-            "last_commit": "2026-08-24T09:28:10Z",
+            "last_commit": "2026-08-24T18:37:54Z",
             "owner": "python-jsonschema",
             "repo": "jsonschema",
             "stars": 4973
@@ -1028,7 +1028,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499520
+                "stars": 499609
               }
             },
             {
@@ -1043,7 +1043,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11437
+                "stars": 11438
               }
             }
           ]
@@ -1065,7 +1065,7 @@
                 "last_commit": "2026-08-24T06:42:58Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315801
+                "stars": 315860
               }
             },
             {
@@ -1150,7 +1150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:18.507Z",
+    "last_updated": "2026-08-24T23:01:14.472Z",
     "original_repository": "grundic/awesome-python-models",
     "original_repository_id": 85747461,
     "original_repository_sha": "094e1b836021767c53823b4894e6b3839826a120",
