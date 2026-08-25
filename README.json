@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T16:33:47Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28606
+            "stars": 28608
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 29918975,
             "language": "Python",
-            "last_commit": "2026-08-18T08:39:27Z",
+            "last_commit": "2026-08-25T05:35:45Z",
             "owner": "python-attrs",
             "repo": "attrs",
             "stars": 5831
@@ -546,7 +546,7 @@
             "last_commit": "2026-08-23T19:39:31Z",
             "owner": "django",
             "repo": "django",
-            "stars": 88922
+            "stars": 88968
           }
         },
         {
@@ -1028,7 +1028,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499609
+                "stars": 499706
               }
             },
             {
@@ -1043,7 +1043,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11438
+                "stars": 11439
               }
             }
           ]
@@ -1062,10 +1062,10 @@
                 "archived": false,
                 "id": 21289110,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:42:58Z",
+                "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315860
+                "stars": 315924
               }
             },
             {
@@ -1150,7 +1150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:01:14.472Z",
+    "last_updated": "2026-08-25T06:27:37.459Z",
     "original_repository": "grundic/awesome-python-models",
     "original_repository_id": 85747461,
     "original_repository_sha": "094e1b836021767c53823b4894e6b3839826a120",
