@@ -181,10 +181,10 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 List of lists.
 
 * Monty
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,885 | 🐛 105 | 📅 2026-08-21
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,893 | 🐛 105 | 📅 2026-08-21
   * [lists](https://github.com/jnv/lists) ⭐ 11,441 | 🐛 22 | 📅 2026-03-23
 * Python
-  * [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,803 | 🐛 18 | 🌐 Python | 📅 2026-08-25
+  * [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,808 | 🐛 19 | 🌐 Python | 📅 2026-08-25
   * [python\_reference](https://github.com/rasbt/python_reference) ⭐ 3,891 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2022-06-27
   * [pycrumbs](https://github.com/kirang89/pycrumbs) ⭐ 3,255 | 🐛 9 | 📅 2023-07-04
   * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) ⭐ 3,055 | 🐛 10 | 🌐 Python | 📅 2026-06-08

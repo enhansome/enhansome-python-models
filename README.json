@@ -1644,7 +1644,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500885,
+                "stars": 500893,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1702,10 +1702,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-25T04:08:40Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316803,
+                "stars": 316808,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1848,7 +1848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:52:44.029Z",
+    "last_updated": "2026-08-29T04:51:06.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python libraries, which implement models, schemas, serializers/deserializers, ODM's/ORM's, Active Records or similar patterns.",
