@@ -1631,7 +1631,7 @@
             {
               "node_type": "item",
               "title": "awesome",
-              "description": null,
+              "description": "sindresorhus/awesome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1644,7 +1644,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513753,
+                "stars": 513800,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1658,7 +1658,7 @@
             {
               "node_type": "item",
               "title": "lists",
-              "description": null,
+              "description": "jnv/lists",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1671,7 +1671,7 @@
                 "open_issues": 32,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11518,
+                "stars": 11520,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1692,7 +1692,7 @@
             {
               "node_type": "item",
               "title": "awesome-python",
-              "description": null,
+              "description": "vinta/awesome-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1702,10 +1702,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T12:01:28Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 324757,
+                "stars": 324780,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1720,7 +1720,7 @@
             {
               "node_type": "item",
               "title": "python_reference",
-              "description": null,
+              "description": "rasbt/python_reference",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1744,7 +1744,7 @@
             {
               "node_type": "item",
               "title": "pycrumbs",
-              "description": null,
+              "description": "kirang89/pycrumbs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1769,7 +1769,7 @@
             {
               "node_type": "item",
               "title": "awesome-sqlalchemy",
-              "description": null,
+              "description": "dahlia/awesome-sqlalchemy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1799,7 +1799,7 @@
             {
               "node_type": "item",
               "title": "pythonidae",
-              "description": null,
+              "description": "svaksha/pythonidae",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1823,7 +1823,7 @@
             {
               "node_type": "item",
               "title": "python-github-projects",
-              "description": null,
+              "description": "checkcheckzz/python-github-projects",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1848,7 +1848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:26:41.333Z",
+    "last_updated": "2026-10-03T05:08:26.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python libraries, which implement models, schemas, serializers/deserializers, ODM's/ORM's, Active Records or similar patterns.",
