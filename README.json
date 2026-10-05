@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T22:30:19Z",
-            "open_issues": 589,
+            "open_issues": 591,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28935,
+            "stars": 28942,
             "topics": [
               "hints",
               "json-schema",
@@ -77,11 +77,11 @@
             "id": 29918975,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T12:47:10Z",
+            "last_commit": "2026-10-04T05:13:11Z",
             "open_issues": 168,
             "owner": "python-attrs",
             "repo": "attrs",
-            "stars": 5849,
+            "stars": 5850,
             "topics": [
               "attributes",
               "boilerplate",
@@ -163,7 +163,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T11:36:35Z",
-            "open_issues": 180,
+            "open_issues": 181,
             "owner": "holoviz",
             "repo": "param",
             "stars": 521,
@@ -849,10 +849,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-03T15:23:24Z",
-            "open_issues": 530,
+            "open_issues": 531,
             "owner": "django",
             "repo": "django",
-            "stars": 91257,
+            "stars": 91306,
             "topics": [
               "apps",
               "django",
@@ -913,7 +913,7 @@
             "open_issues": 318,
             "owner": "MongoEngine",
             "repo": "mongoengine",
-            "stars": 4350,
+            "stars": 4351,
             "topics": [
               "hacktoberfest",
               "mongo",
@@ -1344,7 +1344,7 @@
             "id": 3072629,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T01:52:27Z",
+            "last_commit": "2026-10-04T23:22:51Z",
             "open_issues": 54,
             "owner": "python-jsonschema",
             "repo": "jsonschema",
@@ -1644,7 +1644,7 @@
                 "open_issues": 107,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 514185,
+                "stars": 514701,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1671,7 +1671,7 @@
                 "open_issues": 32,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11522,
+                "stars": 11526,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1702,10 +1702,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T12:01:28Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 324963,
+                "stars": 325203,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1733,7 +1733,7 @@
                 "open_issues": 8,
                 "owner": "rasbt",
                 "repo": "python_reference",
-                "stars": 3890,
+                "stars": 3891,
                 "topics": [
                   "learning-python",
                   "python-tips"
@@ -1757,7 +1757,7 @@
                 "open_issues": 9,
                 "owner": "kirang89",
                 "repo": "pycrumbs",
-                "stars": 3255,
+                "stars": 3254,
                 "topics": [
                   "awesome-list",
                   "links",
@@ -1848,7 +1848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T01:59:56.270Z",
+    "last_updated": "2026-10-05T01:17:17.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python libraries, which implement models, schemas, serializers/deserializers, ODM's/ORM's, Active Records or similar patterns.",
