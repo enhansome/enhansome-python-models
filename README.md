@@ -17,7 +17,7 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 *Libraries implementing some kind of model, letting you to serialize/deserialize python object to some data structures.*
 
 * ![alt text](https://avatars3.githubusercontent.com/u/4039449?v=3\&s=32 "Samuel Colvin")
-  [pydantic](https://github.com/samuelcolvin/pydantic) ⭐ 28,958 | 🐛 584 | 🌐 Python | 📅 2026-10-08 - Data validation using Python 3.6 type hinting.
+  [pydantic](https://github.com/samuelcolvin/pydantic) ⭐ 28,965 | 🐛 583 | 🌐 Python | 📅 2026-10-09 - Data validation using Python 3.6 type hinting.
 * ![alt text](https://avatars1.githubusercontent.com/u/10334301?v=3\&s=32 "Python object serialization and deserialization, lightweight and fluffy")
   [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 146 | 🌐 Python | 📅 2026-10-06 - A lightweight library for converting complex objects to and from simple Python datatypes.
 * ![alt text](https://avatars1.githubusercontent.com/u/25880274?v=3\&s=32 "The attrs Cabal")
@@ -95,13 +95,13 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 *Libraries, implementing ODM/ORM/Active Record patterns, letting you to work with external objects (REST, DB) like normal python instances.*
 
 * ![alt text](https://avatars1.githubusercontent.com/u/27804?v=3\&s=32 "Django")
-  [django](https://github.com/django/django) ⭐ 91,352 | 🐛 538 | 🌐 Python | 📅 2026-10-08 - The Web framework for perfectionists with deadlines (includes ORM layer).
+  [django](https://github.com/django/django) ⭐ 91,357 | 🐛 535 | 🌐 Python | 📅 2026-10-10 - The Web framework for perfectionists with deadlines (includes ORM layer).
 * ![alt text](https://avatars0.githubusercontent.com/u/119974?v=3\&s=32 "Charles Leifer")
   [peewee](https://github.com/coleifer/peewee) ⭐ 11,994 | 🐛 0 | 🌐 Python | 📅 2026-10-07 - a small, expressive orm -- supports postgresql, mysql and sqlite.
 * ![alt text](https://avatars3.githubusercontent.com/u/1502485?v=3\&s=32 "MongoEngine")
-  [mongoengine](https://github.com/MongoEngine/mongoengine) ⭐ 4,351 | 🐛 319 | 🌐 Python | 📅 2026-09-06 - A Python Object-Document-Mapper for working with MongoDB.
+  [mongoengine](https://github.com/MongoEngine/mongoengine) ⭐ 4,350 | 🐛 319 | 🌐 Python | 📅 2026-09-06 - A Python Object-Document-Mapper for working with MongoDB.
 * ![alt text](https://avatars1.githubusercontent.com/u/3248238?v=3\&s=32 "ponyorm")
-  [pony](https://github.com/ponyorm/pony) ⭐ 3,817 | 🐛 358 | 🌐 Python | 📅 2026-08-10 - Pony Object Relational Mapper.
+  [pony](https://github.com/ponyorm/pony) ⭐ 3,818 | 🐛 358 | 🌐 Python | 📅 2026-08-10 - Pony Object Relational Mapper.
 * ![alt text](https://avatars2.githubusercontent.com/u/236514?v=3\&s=32 "Jharrod LaFon")
   [PynamoDB](https://github.com/jlafon/PynamoDB) ⭐ 2,647 | 🐛 321 | 🌐 Python | 📅 2026-05-29 - A pythonic interface to Amazon's DynamoDB.
 * ![alt text](https://avatars3.githubusercontent.com/u/555648?v=3\&s=32 "Sébastien Eustace")
@@ -181,10 +181,10 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 List of lists.
 
 * Monty
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,377 | 🐛 106 | 📅 2026-09-02
-  * [lists](https://github.com/jnv/lists) ⭐ 11,540 | 🐛 33 | 📅 2026-03-23
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,808 | 🐛 106 | 📅 2026-09-02
+  * [lists](https://github.com/jnv/lists) ⭐ 11,542 | 🐛 32 | 📅 2026-03-23
 * Python
-  * [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,939 | 🐛 20 | 🌐 Python | 📅 2026-10-07
+  * [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,173 | 🐛 22 | 🌐 Python | 📅 2026-10-09
   * [python\_reference](https://github.com/rasbt/python_reference) ⭐ 3,889 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2022-06-27
   * [pycrumbs](https://github.com/kirang89/pycrumbs) ⭐ 3,253 | 🐛 9 | 📅 2023-07-04
   * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) ⭐ 3,066 | 🐛 10 | 🌐 Python | 📅 2026-06-08
@@ -197,4 +197,4 @@ If you know some project/library that is not listed here, just let me know! Or e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
