@@ -17,11 +17,11 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 *Libraries implementing some kind of model, letting you to serialize/deserialize python object to some data structures.*
 
 * ![alt text](https://avatars3.githubusercontent.com/u/4039449?v=3\&s=32 "Samuel Colvin")
-  [pydantic](https://github.com/samuelcolvin/pydantic) ⭐ 29,246 | 🐛 599 | 🌐 Python | 📅 2026-10-30 - Data validation using Python 3.6 type hinting.
+  [pydantic](https://github.com/samuelcolvin/pydantic) ⭐ 29,259 | 🐛 595 | 🌐 Python | 📅 2026-10-31 - Data validation using Python 3.6 type hinting.
 * ![alt text](https://avatars1.githubusercontent.com/u/10334301?v=3\&s=32 "Python object serialization and deserialization, lightweight and fluffy")
   [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,245 | 🐛 161 | 🌐 Python | 📅 2026-10-23 - A lightweight library for converting complex objects to and from simple Python datatypes.
 * ![alt text](https://avatars1.githubusercontent.com/u/25880274?v=3\&s=32 "The attrs Cabal")
-  [attrs](https://github.com/python-attrs/attrs) ⭐ 5,863 | 🐛 174 | 🌐 Python | 📅 2026-10-24 - Python Classes Without Boilerplate.
+  [attrs](https://github.com/python-attrs/attrs) ⭐ 5,864 | 🐛 174 | 🌐 Python | 📅 2026-10-24 - Python Classes Without Boilerplate.
 * ![alt text](https://avatars0.githubusercontent.com/u/7866441?v=3\&s=32 "Schematics")
   [schematics](https://github.com/schematics/schematics) ⭐ 2,587 | 🐛 109 | 🌐 Python | 📅 2023-07-12 - Python Data Structures for Humans™.
 * :ghost: [jsonpickle](https://github.com/jsonpickle/jsonpickle) ⭐ 1,319 | 🐛 29 | 🌐 Python | 📅 2026-10-28 - Python library for serializing any arbitrary object graph into JSON.
@@ -95,9 +95,9 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 *Libraries, implementing ODM/ORM/Active Record patterns, letting you to work with external objects (REST, DB) like normal python instances.*
 
 * ![alt text](https://avatars1.githubusercontent.com/u/27804?v=3\&s=32 "Django")
-  [django](https://github.com/django/django) ⭐ 91,478 | 🐛 538 | 🌐 Python | 📅 2026-10-30 - The Web framework for perfectionists with deadlines (includes ORM layer).
+  [django](https://github.com/django/django) ⭐ 91,579 | 🐛 540 | 🌐 Python | 📅 2026-10-31 - The Web framework for perfectionists with deadlines (includes ORM layer).
 * ![alt text](https://avatars0.githubusercontent.com/u/119974?v=3\&s=32 "Charles Leifer")
-  [peewee](https://github.com/coleifer/peewee) ⭐ 12,003 | 🐛 0 | 🌐 Python | 📅 2026-10-29 - a small, expressive orm -- supports postgresql, mysql and sqlite.
+  [peewee](https://github.com/coleifer/peewee) ⭐ 12,003 | 🐛 0 | 🌐 Python | 📅 2026-10-31 - a small, expressive orm -- supports postgresql, mysql and sqlite.
 * ![alt text](https://avatars3.githubusercontent.com/u/1502485?v=3\&s=32 "MongoEngine")
   [mongoengine](https://github.com/MongoEngine/mongoengine) ⭐ 4,348 | 🐛 319 | 🌐 Python | 📅 2026-09-06 - A Python Object-Document-Mapper for working with MongoDB.
 * ![alt text](https://avatars1.githubusercontent.com/u/3248238?v=3\&s=32 "ponyorm")
@@ -163,7 +163,7 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 * ![alt text](https://avatars0.githubusercontent.com/u/1761188?v=3\&s=32 "Shezad Khan")
   [required](https://github.com/shezadkhan137/required) ⭐ 62 | 🐛 8 | 🌐 Python | 📅 2018-12-13 - Required is a simple library which allows you to validate dependencies across multiple fields.
 * ![alt text](https://avatars0.githubusercontent.com/u/872991?v=3\&s=32 "Davide Zanotti")
-  [pyvaru](https://github.com/daveoncode/pyvaru) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2017-04-04 - Rule based data validation library for python 3.
+  [pyvaru](https://github.com/daveoncode/pyvaru) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2017-04-04 - Rule based data validation library for python 3.
 * ![alt text](https://avatars0.githubusercontent.com/u/1328688?v=3\&s=32 "Michael Selik")
   [destructure](https://github.com/selik/destructure) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2016-08-24 - Easy declarative schema validation with optional name-binding.
 
@@ -181,10 +181,10 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 List of lists.
 
 * Monty
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 527,545 | 🐛 105 | 📅 2026-09-02
-  * [lists](https://github.com/jnv/lists) ⭐ 11,616 | 🐛 0 | 📅 2026-10-30
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 528,048 | 🐛 105 | 📅 2026-09-02
+  * [lists](https://github.com/jnv/lists) ⭐ 11,619 | 🐛 0 | 📅 2026-10-31
 * Python
-  * [awesome-python](https://github.com/vinta/awesome-python) ⭐ 331,424 | 🐛 23 | 🌐 Python | 📅 2026-10-29
+  * [awesome-python](https://github.com/vinta/awesome-python) ⭐ 331,618 | 🐛 24 | 🌐 Python | 📅 2026-10-31
   * [python\_reference](https://github.com/rasbt/python_reference) ⭐ 3,890 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2022-06-27
   * [pycrumbs](https://github.com/kirang89/pycrumbs) ⭐ 3,248 | 🐛 9 | 📅 2023-07-04
   * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) ⭐ 3,071 | 🐛 12 | 🌐 Python | 📅 2026-06-08
@@ -197,4 +197,4 @@ If you know some project/library that is not listed here, just let me know! Or e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
