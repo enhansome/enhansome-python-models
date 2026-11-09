@@ -15,11 +15,11 @@
             "id": 90194616,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T13:10:54Z",
-            "open_issues": 603,
+            "last_commit": "2026-11-08T18:43:40Z",
+            "open_issues": 600,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 29384,
+            "stars": 29398,
             "topics": [
               "hints",
               "json-schema",
@@ -52,7 +52,7 @@
             "open_issues": 166,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7244,
+            "stars": 7243,
             "topics": [
               "deserialization",
               "marshalling",
@@ -81,7 +81,7 @@
             "open_issues": 175,
             "owner": "python-attrs",
             "repo": "attrs",
-            "stars": 5863,
+            "stars": 5862,
             "topics": [
               "attributes",
               "boilerplate",
@@ -220,8 +220,8 @@
             "id": 17833540,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T19:05:24Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-08T19:48:57Z",
+            "open_issues": 46,
             "owner": "beregond",
             "repo": "jsonmodels",
             "stars": 343,
@@ -857,7 +857,7 @@
             "open_issues": 536,
             "owner": "django",
             "repo": "django",
-            "stars": 91685,
+            "stars": 91693,
             "topics": [
               "apps",
               "django",
@@ -884,11 +884,11 @@
             "id": 979480,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T02:34:37Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-08T14:30:51Z",
+            "open_issues": 0,
             "owner": "coleifer",
             "repo": "peewee",
-            "stars": 12006,
+            "stars": 12005,
             "topics": [
               "asyncio",
               "dank",
@@ -918,7 +918,7 @@
             "open_issues": 319,
             "owner": "MongoEngine",
             "repo": "mongoengine",
-            "stars": 4347,
+            "stars": 4348,
             "topics": [
               "hacktoberfest",
               "mongo",
@@ -1120,7 +1120,7 @@
             "open_issues": 3,
             "owner": "linkyndy",
             "repo": "remodel",
-            "stars": 191,
+            "stars": 190,
             "topics": [
               "object-document-mapper",
               "python",
@@ -1349,11 +1349,11 @@
             "id": 3072629,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T09:38:22Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-08T10:34:52Z",
+            "open_issues": 58,
             "owner": "python-jsonschema",
             "repo": "jsonschema",
-            "stars": 4993,
+            "stars": 4994,
             "topics": [
               "json",
               "json-schema",
@@ -1377,7 +1377,7 @@
             "language": "Python",
             "license": "ISC",
             "last_commit": "2026-10-01T19:47:12Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "pyeve",
             "repo": "cerberus",
             "stars": 3282,
@@ -1422,7 +1422,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-24T07:29:01Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "alecthomas",
             "repo": "voluptuous",
             "stars": 1852,
@@ -1443,7 +1443,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-05-23T08:40:43Z",
-            "open_issues": 111,
+            "open_issues": 112,
             "owner": "crdoconnor",
             "repo": "strictyaml",
             "stars": 1631,
@@ -1649,7 +1649,7 @@
                 "open_issues": 103,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 533238,
+                "stars": 533908,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1673,10 +1673,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-05T23:20:38Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11641,
+                "stars": 11644,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1706,11 +1706,11 @@
                 "id": 21289110,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T17:47:24Z",
+                "last_commit": "2026-11-08T14:42:33Z",
                 "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 333250,
+                "stars": 333448,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1738,7 +1738,7 @@
                 "open_issues": 8,
                 "owner": "rasbt",
                 "repo": "python_reference",
-                "stars": 3890,
+                "stars": 3888,
                 "topics": [
                   "learning-python",
                   "python-tips"
@@ -1762,7 +1762,7 @@
                 "open_issues": 9,
                 "owner": "kirang89",
                 "repo": "pycrumbs",
-                "stars": 3247,
+                "stars": 3246,
                 "topics": [
                   "awesome-list",
                   "links",
@@ -1817,7 +1817,7 @@
                 "open_issues": 6,
                 "owner": "svaksha",
                 "repo": "pythonidae",
-                "stars": 1050,
+                "stars": 1049,
                 "topics": [
                   "awesome-list",
                   "python"
@@ -1841,7 +1841,7 @@
                 "open_issues": 12,
                 "owner": "checkcheckzz",
                 "repo": "python-github-projects",
-                "stars": 841,
+                "stars": 840,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:18.629Z"
@@ -1853,7 +1853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:50:05.347Z",
+    "last_updated": "2026-11-09T01:58:30.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python libraries, which implement models, schemas, serializers/deserializers, ODM's/ORM's, Active Records or similar patterns.",
