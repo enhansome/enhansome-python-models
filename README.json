@@ -15,11 +15,11 @@
             "id": 90194616,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T10:06:13Z",
-            "open_issues": 610,
+            "last_commit": "2026-11-17T07:57:59Z",
+            "open_issues": 611,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 29532,
+            "stars": 29548,
             "topics": [
               "hints",
               "json-schema",
@@ -48,8 +48,8 @@
             "id": 14284859,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T03:44:04Z",
-            "open_issues": 175,
+            "last_commit": "2026-11-18T00:31:58Z",
+            "open_issues": 171,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
             "stars": 7243,
@@ -81,7 +81,7 @@
             "open_issues": 178,
             "owner": "python-attrs",
             "repo": "attrs",
-            "stars": 5863,
+            "stars": 5862,
             "topics": [
               "attributes",
               "boilerplate",
@@ -853,11 +853,11 @@
             "id": 4164482,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T16:18:34Z",
-            "open_issues": 533,
+            "last_commit": "2026-11-17T20:07:14Z",
+            "open_issues": 531,
             "owner": "django",
             "repo": "django",
-            "stars": 91820,
+            "stars": 92000,
             "topics": [
               "apps",
               "django",
@@ -884,11 +884,11 @@
             "id": 979480,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T14:51:16Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-17T22:03:50Z",
+            "open_issues": 0,
             "owner": "coleifer",
             "repo": "peewee",
-            "stars": 12007,
+            "stars": 12008,
             "topics": [
               "asyncio",
               "dank",
@@ -1029,7 +1029,7 @@
             "open_issues": 0,
             "owner": "coleifer",
             "repo": "walrus",
-            "stars": 1209,
+            "stars": 1210,
             "topics": [
               "autocomplete",
               "database",
@@ -1350,10 +1350,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T18:44:26Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "python-jsonschema",
             "repo": "jsonschema",
-            "stars": 4996,
+            "stars": 4997,
             "topics": [
               "json",
               "json-schema",
@@ -1380,7 +1380,7 @@
             "open_issues": 32,
             "owner": "pyeve",
             "repo": "cerberus",
-            "stars": 3282,
+            "stars": 3283,
             "topics": [
               "data-validation",
               "python"
@@ -1404,7 +1404,7 @@
             "open_issues": 121,
             "owner": "keleshev",
             "repo": "schema",
-            "stars": 2940,
+            "stars": 2939,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:18.629Z"
@@ -1422,7 +1422,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-14T23:11:41Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "alecthomas",
             "repo": "voluptuous",
             "stars": 1852,
@@ -1446,7 +1446,7 @@
             "open_issues": 112,
             "owner": "crdoconnor",
             "repo": "strictyaml",
-            "stars": 1630,
+            "stars": 1629,
             "topics": [
               "config",
               "configuration",
@@ -1649,7 +1649,7 @@
                 "open_issues": 104,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 538084,
+                "stars": 538613,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1673,10 +1673,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-05T23:20:38Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11664,
+                "stars": 11669,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1706,11 +1706,11 @@
                 "id": 21289110,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T03:46:02Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-17T10:02:01Z",
+                "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 335291,
+                "stars": 335516,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1738,7 +1738,7 @@
                 "open_issues": 8,
                 "owner": "rasbt",
                 "repo": "python_reference",
-                "stars": 3889,
+                "stars": 3890,
                 "topics": [
                   "learning-python",
                   "python-tips"
@@ -1787,7 +1787,7 @@
                 "open_issues": 11,
                 "owner": "dahlia",
                 "repo": "awesome-sqlalchemy",
-                "stars": 3074,
+                "stars": 3076,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1853,7 +1853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:47:00.633Z",
+    "last_updated": "2026-11-18T03:51:47.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python libraries, which implement models, schemas, serializers/deserializers, ODM's/ORM's, Active Records or similar patterns.",
